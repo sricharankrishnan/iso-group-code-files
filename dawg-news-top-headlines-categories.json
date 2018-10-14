@@ -1,9 +1,9 @@
 [
-  {"categoryName": "General News", "categoryValue": "General"},
-  {"categoryName": "Business News", "categoryValue": "Business"},
-  {"categoryName": "Entertainment News", "categoryValue": "Entertainment"},
-  {"categoryName": "Health News", "categoryValue": "Health"},
-  {"categoryName": "Tech News", "categoryValue": "Technology"},
-  {"categoryName": "Science News", "categoryValue": "Science"},
-  {"categoryName": "Sports News", "categoryValue": "Sports"}
+  {"selectionName": "General News", "selectionValue": "General"},
+  {"selectionName": "Business News", "selectionValue": "Business"},
+  {"selectionName": "Entertainment News", "selectionValue": "Entertainment"},
+  {"selectionName": "Health News", "selectionValue": "Health"},
+  {"selectionName": "Tech News", "selectionValue": "Technology"},
+  {"selectionName": "Science News", "selectionValue": "Science"},
+  {"selectionName": "Sports News", "selectionValue": "Sports"}
 ]
