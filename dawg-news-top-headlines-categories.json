@@ -1,0 +1,9 @@
+[
+  {"categoryName": "General News", "categoryValue": "General"},
+  {"categoryName": "Business News", "categoryValue": "Business"},
+  {"categoryName": "Entertainment News", "categoryValue": "Entertainment"},
+  {"categoryName": "Health News", "categoryValue": "Health"},
+  {"categoryName": "Tech News", "categoryValue": "Technology"},
+  {"categoryName": "Science News", "categoryValue": "Science"},
+  {"categoryName": "Sports News", "categoryValue": "Sports"}
+]
