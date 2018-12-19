@@ -1,248 +1,986 @@
 [
-  {"countryName":"Bangladesh", "isdCode": "+880"},
-  {"countryName":"Belgium", "isdCode": "+32"},
-  {"countryName":"Burkina Faso", "isdCode": "+226"},
-  {"countryName":"Bulgaria", "isdCode": "+359"},
-  {"countryName":"Bosnia and Herzegovina", "isdCode": "+387"},
-  {"countryName":"Barbados", "isdCode": "+1-246"},
-  {"countryName":"Wallis and Futuna", "isdCode": "+681"},
-  {"countryName":"Saint Barthelemy", "isdCode": "+590"},
-  {"countryName":"Bermuda", "isdCode": "+1-441"},
-  {"countryName":"Brunei", "isdCode": "+673"},
-  {"countryName":"Bolivia", "isdCode": "+591"},
-  {"countryName":"Bahrain", "isdCode": "+973"},
-  {"countryName":"Burundi", "isdCode": "+257"},
-  {"countryName":"Benin", "isdCode": "+229"},
-  {"countryName":"Bhutan", "isdCode": "+975"},
-  {"countryName":"Jamaica", "isdCode": "+1-876"},
-  {"countryName":"Botswana", "isdCode": "+267"},
-  {"countryName":"Samoa", "isdCode": "+685"},
-  {"countryName":"Bonaire, Saint Eustatius and Saba", "isdCode": "+599"},
-  {"countryName":"Brazil", "isdCode": "+55"},
-  {"countryName":"Bahamas", "isdCode": "+1-242"},
-  {"countryName":"Jersey", "isdCode": "+44-1534"},
-  {"countryName":"Belarus", "isdCode": "+375"},
-  {"countryName":"Belize", "isdCode": "+501"},
-  {"countryName":"Russia", "isdCode": "+7"},
-  {"countryName":"Rwanda", "isdCode": "+250"},
-  {"countryName":"Serbia", "isdCode": "+381"},
-  {"countryName":"East Timor", "isdCode": "+670"},
-  {"countryName":"Reunion", "isdCode": "+262"},
-  {"countryName":"Turkmenistan", "isdCode": "+993"},
-  {"countryName":"Tajikistan", "isdCode": "+992"},
-  {"countryName":"Romania", "isdCode": "+40"},
-  {"countryName":"Tokelau", "isdCode": "+690"},
-  {"countryName":"Guinea-Bissau", "isdCode": "+245"},
-  {"countryName":"Guam", "isdCode": "+1-671"},
-  {"countryName":"Guatemala", "isdCode": "+502"},
-  {"countryName":"Greece", "isdCode": "+30"},
-  {"countryName":"Equatorial Guinea", "isdCode": "+240"},
-  {"countryName":"Guadeloupe", "isdCode": "+590"},
-  {"countryName":"Japan", "isdCode": "+81"},
-  {"countryName":"Guyana", "isdCode": "+592"},
-  {"countryName":"Guernsey", "isdCode": "+44-1481"},
-  {"countryName":"French Guiana", "isdCode": "+594"},
-  {"countryName":"Georgia", "isdCode": "+995"},
-  {"countryName":"Grenada", "isdCode": "+1-473"},
-  {"countryName":"United Kingdom", "isdCode": "+44"},
-  {"countryName":"Gabon", "isdCode": "+241"},
-  {"countryName":"El Salvador", "isdCode": "+503"},
-  {"countryName":"Guinea", "isdCode": "+224"},
-  {"countryName":"Gambia", "isdCode": "+220"},
-  {"countryName":"Greenland", "isdCode": "+299"},
-  {"countryName":"Gibraltar", "isdCode": "+350"},
-  {"countryName":"Ghana", "isdCode": "+233"},
-  {"countryName":"Oman", "isdCode": "+968"},
-  {"countryName":"Tunisia", "isdCode": "+216"},
-  {"countryName":"Jordan", "isdCode": "+962"},
-  {"countryName":"Croatia", "isdCode": "+385"},
-  {"countryName":"Haiti", "isdCode": "+509"},
-  {"countryName":"Hungary", "isdCode": "+36"},
-  {"countryName":"Hong Kong", "isdCode": "+852"},
-  {"countryName":"Honduras", "isdCode": "+504"},
-  {"countryName":"Venezuela", "isdCode": "+58"},
-  {"countryName":"Puerto Rico - 1", "isdCode": "+1-787"},
-  {"countryName":"Puerto Rico - 2", "isdCode": "+1-939"},
-  {"countryName":"Palestinian Territory", "isdCode": "+970"},
-  {"countryName":"Palau", "isdCode": "+680"},
-  {"countryName":"Portugal", "isdCode": "+351"},
-  {"countryName":"Svalbard and Jan Mayen", "isdCode": "+47"},
-  {"countryName":"Paraguay", "isdCode": "+595"},
-  {"countryName":"Iraq", "isdCode": "+964"},
-  {"countryName":"Panama", "isdCode": "+507"},
-  {"countryName":"French Polynesia", "isdCode": "+689"},
-  {"countryName":"Papua New Guinea", "isdCode": "+675"},
-  {"countryName":"Peru", "isdCode": "+51"},
-  {"countryName":"Pakistan", "isdCode": "+92"},
-  {"countryName":"Philippines", "isdCode": "+63"},
-  {"countryName":"Pitcairn", "isdCode": "+870"},
-  {"countryName":"Poland", "isdCode": "+48"},
-  {"countryName":"Saint Pierre and Miquelon", "isdCode": "+508"},
-  {"countryName":"Zambia", "isdCode": "+260"},
-  {"countryName":"Western Sahara", "isdCode": "+212"},
-  {"countryName":"Estonia", "isdCode": "+372"},
-  {"countryName":"Egypt", "isdCode": "+20"},
-  {"countryName":"South Africa", "isdCode": "+27"},
-  {"countryName":"Ecuador", "isdCode": "+593"},
-  {"countryName":"Italy", "isdCode": "+39"},
-  {"countryName":"Vietnam", "isdCode": "+84"},
-  {"countryName":"Solomon Islands", "isdCode": "+677"},
-  {"countryName":"Ethiopia", "isdCode": "+251"},
-  {"countryName":"Somalia", "isdCode": "+252"},
-  {"countryName":"Zimbabwe", "isdCode": "+263"},
-  {"countryName":"Saudi Arabia", "isdCode": "+966"},
-  {"countryName":"Spain", "isdCode": "+34"},
-  {"countryName":"Eritrea", "isdCode": "+291"},
-  {"countryName":"Montenegro", "isdCode": "+382"},
-  {"countryName":"Moldova", "isdCode": "+373"},
-  {"countryName":"Madagascar", "isdCode": "+261"},
-  {"countryName":"Saint Martin", "isdCode": "+590"},
-  {"countryName":"Morocco", "isdCode": "+212"},
-  {"countryName":"Monaco", "isdCode": "+377"},
-  {"countryName":"Uzbekistan", "isdCode": "+998"},
-  {"countryName":"Myanmar", "isdCode": "+95"},
-  {"countryName":"Mali", "isdCode": "+223"},
-  {"countryName":"Macao", "isdCode": "+853"},
-  {"countryName":"Mongolia", "isdCode": "+976"},
-  {"countryName":"Marshall Islands", "isdCode": "+692"},
-  {"countryName":"Macedonia", "isdCode": "+389"},
-  {"countryName":"Mauritius", "isdCode": "+230"},
-  {"countryName":"Malta", "isdCode": "+356"},
-  {"countryName":"Malawi", "isdCode": "+265"},
-  {"countryName":"Maldives", "isdCode": "+960"},
-  {"countryName":"Martinique", "isdCode": "+596"},
-  {"countryName":"Northern Mariana Islands", "isdCode": "+1-670"},
-  {"countryName":"Montserrat", "isdCode": "+1-664"},
-  {"countryName":"Mauritania", "isdCode": "+222"},
-  {"countryName":"Isle of Man", "isdCode": "+44-1624"},
-  {"countryName":"Uganda", "isdCode": "+256"},
-  {"countryName":"Tanzania", "isdCode": "+255"},
-  {"countryName":"Malaysia", "isdCode": "+60"},
-  {"countryName":"Mexico", "isdCode": "+52"},
-  {"countryName":"Israel", "isdCode": "+972"},
-  {"countryName":"France", "isdCode": "+33"},
-  {"countryName":"British Indian Ocean Territory", "isdCode": "+246"},
-  {"countryName":"Saint Helena", "isdCode": "+290"},
-  {"countryName":"Finland", "isdCode": "+358"},
-  {"countryName":"Fiji", "isdCode": "+679"},
-  {"countryName":"Falkland Islands", "isdCode": "+500"},
-  {"countryName":"Micronesia", "isdCode": "+691"},
-  {"countryName":"Faroe Islands", "isdCode": "+298"},
-  {"countryName":"Nicaragua", "isdCode": "+505"},
-  {"countryName":"Netherlands", "isdCode": "+31"},
-  {"countryName":"Norway", "isdCode": "+47"},
-  {"countryName":"Namibia", "isdCode": "+264"},
-  {"countryName":"Vanuatu", "isdCode": "+678"},
-  {"countryName":"New Caledonia", "isdCode": "+687"},
-  {"countryName":"Niger", "isdCode": "+227"},
-  {"countryName":"Norfolk Island", "isdCode": "+672"},
-  {"countryName":"Nigeria", "isdCode": "+234"},
-  {"countryName":"New Zealand", "isdCode": "+64"},
-  {"countryName":"Nepal", "isdCode": "+977"},
-  {"countryName":"Nauru", "isdCode": "+674"},
-  {"countryName":"Niue", "isdCode": "+683"},
-  {"countryName":"Cook Islands", "isdCode": "+682"},
-  {"countryName":"Ivory Coast", "isdCode": "+225"},
-  {"countryName":"Switzerland", "isdCode": "+41"},
-  {"countryName":"Colombia", "isdCode": "+57"},
-  {"countryName":"China", "isdCode": "+86"},
-  {"countryName":"Cameroon", "isdCode": "+237"},
-  {"countryName":"Chile", "isdCode": "+56"},
-  {"countryName":"Cocos Islands", "isdCode": "+61"},
-  {"countryName":"Canada", "isdCode": "+1"},
-  {"countryName":"Republic of the Congo", "isdCode": "+242"},
-  {"countryName":"Central African Republic", "isdCode": "+236"},
-  {"countryName":"Democratic Republic of the Congo", "isdCode": "+211"},
-  {"countryName":"Czech Republic", "isdCode": "+420"},
-  {"countryName":"Cyprus", "isdCode": "+357"},
-  {"countryName":"Christmas Island", "isdCode": "+61"},
-  {"countryName":"Costa Rica", "isdCode": "+506"},
-  {"countryName":"Curacao", "isdCode": "+599"},
-  {"countryName":"Cape Verde", "isdCode": "+238"},
-  {"countryName":"Cuba", "isdCode": "+53"},
-  {"countryName":"Swaziland", "isdCode": "+268"},
-  {"countryName":"Syria", "isdCode": "+963"},
-  {"countryName":"Sint Maarten", "isdCode": "+599"},
-  {"countryName":"Kyrgyzstan", "isdCode": "+996"},
-  {"countryName":"Kenya", "isdCode": "+254"},
-  {"countryName":"South Sudan", "isdCode": "+211"},
-  {"countryName":"Suriname", "isdCode": "+597"},
-  {"countryName":"Kiribati", "isdCode": "+686"},
-  {"countryName":"Cambodia", "isdCode": "+855"},
-  {"countryName":"Saint Kitts and Nevis", "isdCode": "+1-869"},
-  {"countryName":"Comoros", "isdCode": "+269"},
-  {"countryName":"Sao Tome and Principe", "isdCode": "+239"},
-  {"countryName":"Slovakia", "isdCode": "+421"},
-  {"countryName":"South Korea", "isdCode": "+82"},
-  {"countryName":"Slovenia", "isdCode": "+386"},
-  {"countryName":"North Korea", "isdCode": "+850"},
-  {"countryName":"Kuwait", "isdCode": "+965"},
-  {"countryName":"Senegal", "isdCode": "+221"},
-  {"countryName":"San Marino", "isdCode": "+378"},
-  {"countryName":"Sierra Leone", "isdCode": "+232"},
-  {"countryName":"Seychelles", "isdCode": "+248"},
-  {"countryName":"Kazakhstan", "isdCode": "+7"},
-  {"countryName":"Cayman Islands", "isdCode": "+1-345"},
-  {"countryName":"Singapore", "isdCode": "+65"},
-  {"countryName":"Sweden", "isdCode": "+46"},
-  {"countryName":"Sudan", "isdCode": "+249"},
-  {"countryName":"Dominican Republic - 1", "isdCode": "+1-809"},
-  {"countryName":"Dominican Republic - 2", "isdCode": "+1-829"},
-  {"countryName":"Dominica", "isdCode": "+1-767"},
-  {"countryName":"Djibouti", "isdCode": "+253"},
-  {"countryName":"Denmark", "isdCode": "+45"},
-  {"countryName":"British Virgin Islands", "isdCode": "+1-284"},
-  {"countryName":"Germany", "isdCode": "+49"},
-  {"countryName":"Yemen", "isdCode": "+967"},
-  {"countryName":"Algeria", "isdCode": "+213"},
-  {"countryName":"United States", "isdCode": "+1"},
-  {"countryName":"Uruguay", "isdCode": "+598"},
-  {"countryName":"Mayotte", "isdCode": "+262"},
-  {"countryName":"United States Minor Outlying Islands", "isdCode": "+1"},
-  {"countryName":"Lebanon", "isdCode": "+961"},
-  {"countryName":"Saint Lucia", "isdCode": "+1-758"},
-  {"countryName":"Laos", "isdCode": "+856"},
-  {"countryName":"Tuvalu", "isdCode": "+688"},
-  {"countryName":"Taiwan", "isdCode": "+886"},
-  {"countryName":"Trinidad and Tobago", "isdCode": "+1-868"},
-  {"countryName":"Turkey", "isdCode": "+90"},
-  {"countryName":"Sri Lanka", "isdCode": "+94"},
-  {"countryName":"Liechtenstein", "isdCode": "+423"},
-  {"countryName":"Latvia", "isdCode": "+371"},
-  {"countryName":"Tonga", "isdCode": "+676"},
-  {"countryName":"Lithuania", "isdCode": "+370"},
-  {"countryName":"Luxembourg", "isdCode": "+352"},
-  {"countryName":"Liberia", "isdCode": "+231"},
-  {"countryName":"Lesotho", "isdCode": "+266"},
-  {"countryName":"Thailand", "isdCode": "+66"},
-  {"countryName":"Togo", "isdCode": "+228"},
-  {"countryName":"Chad", "isdCode": "+235"},
-  {"countryName":"Turks and Caicos Islands", "isdCode": "+1-649"},
-  {"countryName":"Libya", "isdCode": "+218"},
-  {"countryName":"Vatican", "isdCode": "+379"},
-  {"countryName":"Saint Vincent and the Grenadines", "isdCode": "+1-784"},
-  {"countryName":"United Arab Emirates", "isdCode": "+971"},
-  {"countryName":"Andorra", "isdCode": "+376"},
-  {"countryName":"Antigua and Barbuda", "isdCode": "+1-268"},
-  {"countryName":"Afghanistan", "isdCode": "+93"},
-  {"countryName":"Anguilla", "isdCode": "+1-264"},
-  {"countryName":"U.S. Virgin Islands", "isdCode": "+1-340"},
-  {"countryName":"Iceland", "isdCode": "+354"},
-  {"countryName":"Iran", "isdCode": "+98"},
-  {"countryName":"Armenia", "isdCode": "+374"},
-  {"countryName":"Albania", "isdCode": "+355"},
-  {"countryName":"Angola", "isdCode": "+244"},
-  {"countryName":"American Samoa", "isdCode": "+1-684"},
-  {"countryName":"Argentina", "isdCode": "+54"},
-  {"countryName":"Australia", "isdCode": "+61"},
-  {"countryName":"Austria", "isdCode": "+43"},
-  {"countryName":"Aruba", "isdCode": "+297"},
-  {"countryName":"India", "isdCode": "+91"},
-  {"countryName":"Aland Islands", "isdCode": "+358-18"},
-  {"countryName":"Azerbaijan", "isdCode": "+994"},
-  {"countryName":"Ireland", "isdCode": "+353"},
-  {"countryName":"Indonesia", "isdCode": "+62"},
-  {"countryName":"Ukraine", "isdCode": "+380"},
-  {"countryName":"Qatar", "isdCode": "+974"},
-  {"countryName":"Mozambique", "isdCode": "+258"}
+	{
+		"countryName": "Afghanistan",
+		"isdCode": "+93"
+	},
+	{
+		"countryName": "Aland Islands",
+		"isdCode": "+358-18"
+	},
+	{
+		"countryName": "Albania",
+		"isdCode": "+355"
+	},
+	{
+		"countryName": "Algeria",
+		"isdCode": "+213"
+	},
+	{
+		"countryName": "American Samoa",
+		"isdCode": "+1-684"
+	},
+	{
+		"countryName": "Andorra",
+		"isdCode": "+376"
+	},
+	{
+		"countryName": "Angola",
+		"isdCode": "+244"
+	},
+	{
+		"countryName": "Anguilla",
+		"isdCode": "+1-264"
+	},
+	{
+		"countryName": "Antigua and Barbuda",
+		"isdCode": "+1-268"
+	},
+	{
+		"countryName": "Argentina",
+		"isdCode": "+54"
+	},
+	{
+		"countryName": "Armenia",
+		"isdCode": "+374"
+	},
+	{
+		"countryName": "Aruba",
+		"isdCode": "+297"
+	},
+	{
+		"countryName": "Australia",
+		"isdCode": "+61"
+	},
+	{
+		"countryName": "Austria",
+		"isdCode": "+43"
+	},
+	{
+		"countryName": "Azerbaijan",
+		"isdCode": "+994"
+	},
+	{
+		"countryName": "Bahamas",
+		"isdCode": "+1-242"
+	},
+	{
+		"countryName": "Bahrain",
+		"isdCode": "+973"
+	},
+	{
+		"countryName": "Bangladesh",
+		"isdCode": "+880"
+	},
+	{
+		"countryName": "Barbados",
+		"isdCode": "+1-246"
+	},
+	{
+		"countryName": "Belarus",
+		"isdCode": "+375"
+	},
+	{
+		"countryName": "Belgium",
+		"isdCode": "+32"
+	},
+	{
+		"countryName": "Belize",
+		"isdCode": "+501"
+	},
+	{
+		"countryName": "Benin",
+		"isdCode": "+229"
+	},
+	{
+		"countryName": "Bermuda",
+		"isdCode": "+1-441"
+	},
+	{
+		"countryName": "Bhutan",
+		"isdCode": "+975"
+	},
+	{
+		"countryName": "Bolivia",
+		"isdCode": "+591"
+	},
+	{
+		"countryName": "Bonaire, Saint Eustatius and Saba",
+		"isdCode": "+599"
+	},
+	{
+		"countryName": "Bosnia and Herzegovina",
+		"isdCode": "+387"
+	},
+	{
+		"countryName": "Botswana",
+		"isdCode": "+267"
+	},
+	{
+		"countryName": "Brazil",
+		"isdCode": "+55"
+	},
+	{
+		"countryName": "British Indian Ocean Territory",
+		"isdCode": "+246"
+	},
+	{
+		"countryName": "British Virgin Islands",
+		"isdCode": "+1-284"
+	},
+	{
+		"countryName": "Brunei",
+		"isdCode": "+673"
+	},
+	{
+		"countryName": "Bulgaria",
+		"isdCode": "+359"
+	},
+	{
+		"countryName": "Burkina Faso",
+		"isdCode": "+226"
+	},
+	{
+		"countryName": "Burundi",
+		"isdCode": "+257"
+	},
+	{
+		"countryName": "Cambodia",
+		"isdCode": "+855"
+	},
+	{
+		"countryName": "Cameroon",
+		"isdCode": "+237"
+	},
+	{
+		"countryName": "Canada",
+		"isdCode": "+1"
+	},
+	{
+		"countryName": "Cape Verde",
+		"isdCode": "+238"
+	},
+	{
+		"countryName": "Cayman Islands",
+		"isdCode": "+1-345"
+	},
+	{
+		"countryName": "Central African Republic",
+		"isdCode": "+236"
+	},
+	{
+		"countryName": "Chad",
+		"isdCode": "+235"
+	},
+	{
+		"countryName": "Chile",
+		"isdCode": "+56"
+	},
+	{
+		"countryName": "China",
+		"isdCode": "+86"
+	},
+	{
+		"countryName": "Christmas Island",
+		"isdCode": "+61"
+	},
+	{
+		"countryName": "Cocos Islands",
+		"isdCode": "+61"
+	},
+	{
+		"countryName": "Colombia",
+		"isdCode": "+57"
+	},
+	{
+		"countryName": "Comoros",
+		"isdCode": "+269"
+	},
+	{
+		"countryName": "Cook Islands",
+		"isdCode": "+682"
+	},
+	{
+		"countryName": "Costa Rica",
+		"isdCode": "+506"
+	},
+	{
+		"countryName": "Croatia",
+		"isdCode": "+385"
+	},
+	{
+		"countryName": "Cuba",
+		"isdCode": "+53"
+	},
+	{
+		"countryName": "Curacao",
+		"isdCode": "+599"
+	},
+	{
+		"countryName": "Cyprus",
+		"isdCode": "+357"
+	},
+	{
+		"countryName": "Czech Republic",
+		"isdCode": "+420"
+	},
+	{
+		"countryName": "Democratic Republic of the Congo",
+		"isdCode": "+211"
+	},
+	{
+		"countryName": "Denmark",
+		"isdCode": "+45"
+	},
+	{
+		"countryName": "Djibouti",
+		"isdCode": "+253"
+	},
+	{
+		"countryName": "Dominica",
+		"isdCode": "+1-767"
+	},
+	{
+		"countryName": "Dominican Republic - 1",
+		"isdCode": "+1-809"
+	},
+	{
+		"countryName": "Dominican Republic - 2",
+		"isdCode": "+1-829"
+	},
+	{
+		"countryName": "East Timor",
+		"isdCode": "+670"
+	},
+	{
+		"countryName": "Ecuador",
+		"isdCode": "+593"
+	},
+	{
+		"countryName": "Egypt",
+		"isdCode": "+20"
+	},
+	{
+		"countryName": "El Salvador",
+		"isdCode": "+503"
+	},
+	{
+		"countryName": "Equatorial Guinea",
+		"isdCode": "+240"
+	},
+	{
+		"countryName": "Eritrea",
+		"isdCode": "+291"
+	},
+	{
+		"countryName": "Estonia",
+		"isdCode": "+372"
+	},
+	{
+		"countryName": "Ethiopia",
+		"isdCode": "+251"
+	},
+	{
+		"countryName": "Falkland Islands",
+		"isdCode": "+500"
+	},
+	{
+		"countryName": "Faroe Islands",
+		"isdCode": "+298"
+	},
+	{
+		"countryName": "Fiji",
+		"isdCode": "+679"
+	},
+	{
+		"countryName": "Finland",
+		"isdCode": "+358"
+	},
+	{
+		"countryName": "France",
+		"isdCode": "+33"
+	},
+	{
+		"countryName": "French Guiana",
+		"isdCode": "+594"
+	},
+	{
+		"countryName": "French Polynesia",
+		"isdCode": "+689"
+	},
+	{
+		"countryName": "Gabon",
+		"isdCode": "+241"
+	},
+	{
+		"countryName": "Gambia",
+		"isdCode": "+220"
+	},
+	{
+		"countryName": "Georgia",
+		"isdCode": "+995"
+	},
+	{
+		"countryName": "Germany",
+		"isdCode": "+49"
+	},
+	{
+		"countryName": "Ghana",
+		"isdCode": "+233"
+	},
+	{
+		"countryName": "Gibraltar",
+		"isdCode": "+350"
+	},
+	{
+		"countryName": "Greece",
+		"isdCode": "+30"
+	},
+	{
+		"countryName": "Greenland",
+		"isdCode": "+299"
+	},
+	{
+		"countryName": "Grenada",
+		"isdCode": "+1-473"
+	},
+	{
+		"countryName": "Guadeloupe",
+		"isdCode": "+590"
+	},
+	{
+		"countryName": "Guam",
+		"isdCode": "+1-671"
+	},
+	{
+		"countryName": "Guatemala",
+		"isdCode": "+502"
+	},
+	{
+		"countryName": "Guernsey",
+		"isdCode": "+44-1481"
+	},
+	{
+		"countryName": "Guinea",
+		"isdCode": "+224"
+	},
+	{
+		"countryName": "Guinea-Bissau",
+		"isdCode": "+245"
+	},
+	{
+		"countryName": "Guyana",
+		"isdCode": "+592"
+	},
+	{
+		"countryName": "Haiti",
+		"isdCode": "+509"
+	},
+	{
+		"countryName": "Honduras",
+		"isdCode": "+504"
+	},
+	{
+		"countryName": "Hong Kong",
+		"isdCode": "+852"
+	},
+	{
+		"countryName": "Hungary",
+		"isdCode": "+36"
+	},
+	{
+		"countryName": "Iceland",
+		"isdCode": "+354"
+	},
+	{
+		"countryName": "India",
+		"isdCode": "+91"
+	},
+	{
+		"countryName": "Indonesia",
+		"isdCode": "+62"
+	},
+	{
+		"countryName": "Iran",
+		"isdCode": "+98"
+	},
+	{
+		"countryName": "Iraq",
+		"isdCode": "+964"
+	},
+	{
+		"countryName": "Ireland",
+		"isdCode": "+353"
+	},
+	{
+		"countryName": "Isle of Man",
+		"isdCode": "+44-1624"
+	},
+	{
+		"countryName": "Israel",
+		"isdCode": "+972"
+	},
+	{
+		"countryName": "Italy",
+		"isdCode": "+39"
+	},
+	{
+		"countryName": "Ivory Coast",
+		"isdCode": "+225"
+	},
+	{
+		"countryName": "Jamaica",
+		"isdCode": "+1-876"
+	},
+	{
+		"countryName": "Japan",
+		"isdCode": "+81"
+	},
+	{
+		"countryName": "Jersey",
+		"isdCode": "+44-1534"
+	},
+	{
+		"countryName": "Jordan",
+		"isdCode": "+962"
+	},
+	{
+		"countryName": "Kazakhstan",
+		"isdCode": "+7"
+	},
+	{
+		"countryName": "Kenya",
+		"isdCode": "+254"
+	},
+	{
+		"countryName": "Kiribati",
+		"isdCode": "+686"
+	},
+	{
+		"countryName": "Kuwait",
+		"isdCode": "+965"
+	},
+	{
+		"countryName": "Kyrgyzstan",
+		"isdCode": "+996"
+	},
+	{
+		"countryName": "Laos",
+		"isdCode": "+856"
+	},
+	{
+		"countryName": "Latvia",
+		"isdCode": "+371"
+	},
+	{
+		"countryName": "Lebanon",
+		"isdCode": "+961"
+	},
+	{
+		"countryName": "Lesotho",
+		"isdCode": "+266"
+	},
+	{
+		"countryName": "Liberia",
+		"isdCode": "+231"
+	},
+	{
+		"countryName": "Libya",
+		"isdCode": "+218"
+	},
+	{
+		"countryName": "Liechtenstein",
+		"isdCode": "+423"
+	},
+	{
+		"countryName": "Lithuania",
+		"isdCode": "+370"
+	},
+	{
+		"countryName": "Luxembourg",
+		"isdCode": "+352"
+	},
+	{
+		"countryName": "Macao",
+		"isdCode": "+853"
+	},
+	{
+		"countryName": "Macedonia",
+		"isdCode": "+389"
+	},
+	{
+		"countryName": "Madagascar",
+		"isdCode": "+261"
+	},
+	{
+		"countryName": "Malawi",
+		"isdCode": "+265"
+	},
+	{
+		"countryName": "Malaysia",
+		"isdCode": "+60"
+	},
+	{
+		"countryName": "Maldives",
+		"isdCode": "+960"
+	},
+	{
+		"countryName": "Mali",
+		"isdCode": "+223"
+	},
+	{
+		"countryName": "Malta",
+		"isdCode": "+356"
+	},
+	{
+		"countryName": "Marshall Islands",
+		"isdCode": "+692"
+	},
+	{
+		"countryName": "Martinique",
+		"isdCode": "+596"
+	},
+	{
+		"countryName": "Mauritania",
+		"isdCode": "+222"
+	},
+	{
+		"countryName": "Mauritius",
+		"isdCode": "+230"
+	},
+	{
+		"countryName": "Mayotte",
+		"isdCode": "+262"
+	},
+	{
+		"countryName": "Mexico",
+		"isdCode": "+52"
+	},
+	{
+		"countryName": "Micronesia",
+		"isdCode": "+691"
+	},
+	{
+		"countryName": "Moldova",
+		"isdCode": "+373"
+	},
+	{
+		"countryName": "Monaco",
+		"isdCode": "+377"
+	},
+	{
+		"countryName": "Mongolia",
+		"isdCode": "+976"
+	},
+	{
+		"countryName": "Montenegro",
+		"isdCode": "+382"
+	},
+	{
+		"countryName": "Montserrat",
+		"isdCode": "+1-664"
+	},
+	{
+		"countryName": "Morocco",
+		"isdCode": "+212"
+	},
+	{
+		"countryName": "Mozambique",
+		"isdCode": "+258"
+	},
+	{
+		"countryName": "Myanmar",
+		"isdCode": "+95"
+	},
+	{
+		"countryName": "Namibia",
+		"isdCode": "+264"
+	},
+	{
+		"countryName": "Nauru",
+		"isdCode": "+674"
+	},
+	{
+		"countryName": "Nepal",
+		"isdCode": "+977"
+	},
+	{
+		"countryName": "Netherlands",
+		"isdCode": "+31"
+	},
+	{
+		"countryName": "New Caledonia",
+		"isdCode": "+687"
+	},
+	{
+		"countryName": "New Zealand",
+		"isdCode": "+64"
+	},
+	{
+		"countryName": "Nicaragua",
+		"isdCode": "+505"
+	},
+	{
+		"countryName": "Niger",
+		"isdCode": "+227"
+	},
+	{
+		"countryName": "Nigeria",
+		"isdCode": "+234"
+	},
+	{
+		"countryName": "Niue",
+		"isdCode": "+683"
+	},
+	{
+		"countryName": "Norfolk Island",
+		"isdCode": "+672"
+	},
+	{
+		"countryName": "North Korea",
+		"isdCode": "+850"
+	},
+	{
+		"countryName": "Northern Mariana Islands",
+		"isdCode": "+1-670"
+	},
+	{
+		"countryName": "Norway",
+		"isdCode": "+47"
+	},
+	{
+		"countryName": "Oman",
+		"isdCode": "+968"
+	},
+	{
+		"countryName": "Pakistan",
+		"isdCode": "+92"
+	},
+	{
+		"countryName": "Palau",
+		"isdCode": "+680"
+	},
+	{
+		"countryName": "Palestinian Territory",
+		"isdCode": "+970"
+	},
+	{
+		"countryName": "Panama",
+		"isdCode": "+507"
+	},
+	{
+		"countryName": "Papua New Guinea",
+		"isdCode": "+675"
+	},
+	{
+		"countryName": "Paraguay",
+		"isdCode": "+595"
+	},
+	{
+		"countryName": "Peru",
+		"isdCode": "+51"
+	},
+	{
+		"countryName": "Philippines",
+		"isdCode": "+63"
+	},
+	{
+		"countryName": "Pitcairn",
+		"isdCode": "+870"
+	},
+	{
+		"countryName": "Poland",
+		"isdCode": "+48"
+	},
+	{
+		"countryName": "Portugal",
+		"isdCode": "+351"
+	},
+	{
+		"countryName": "Puerto Rico - 1",
+		"isdCode": "+1-787"
+	},
+	{
+		"countryName": "Puerto Rico - 2",
+		"isdCode": "+1-939"
+	},
+	{
+		"countryName": "Qatar",
+		"isdCode": "+974"
+	},
+	{
+		"countryName": "Republic of the Congo",
+		"isdCode": "+242"
+	},
+	{
+		"countryName": "Reunion",
+		"isdCode": "+262"
+	},
+	{
+		"countryName": "Romania",
+		"isdCode": "+40"
+	},
+	{
+		"countryName": "Russia",
+		"isdCode": "+7"
+	},
+	{
+		"countryName": "Rwanda",
+		"isdCode": "+250"
+	},
+	{
+		"countryName": "Saint Barthelemy",
+		"isdCode": "+590"
+	},
+	{
+		"countryName": "Saint Helena",
+		"isdCode": "+290"
+	},
+	{
+		"countryName": "Saint Kitts and Nevis",
+		"isdCode": "+1-869"
+	},
+	{
+		"countryName": "Saint Lucia",
+		"isdCode": "+1-758"
+	},
+	{
+		"countryName": "Saint Martin",
+		"isdCode": "+590"
+	},
+	{
+		"countryName": "Saint Pierre and Miquelon",
+		"isdCode": "+508"
+	},
+	{
+		"countryName": "Saint Vincent and the Grenadines",
+		"isdCode": "+1-784"
+	},
+	{
+		"countryName": "Samoa",
+		"isdCode": "+685"
+	},
+	{
+		"countryName": "San Marino",
+		"isdCode": "+378"
+	},
+	{
+		"countryName": "Sao Tome and Principe",
+		"isdCode": "+239"
+	},
+	{
+		"countryName": "Saudi Arabia",
+		"isdCode": "+966"
+	},
+	{
+		"countryName": "Senegal",
+		"isdCode": "+221"
+	},
+	{
+		"countryName": "Serbia",
+		"isdCode": "+381"
+	},
+	{
+		"countryName": "Seychelles",
+		"isdCode": "+248"
+	},
+	{
+		"countryName": "Sierra Leone",
+		"isdCode": "+232"
+	},
+	{
+		"countryName": "Singapore",
+		"isdCode": "+65"
+	},
+	{
+		"countryName": "Sint Maarten",
+		"isdCode": "+599"
+	},
+	{
+		"countryName": "Slovakia",
+		"isdCode": "+421"
+	},
+	{
+		"countryName": "Slovenia",
+		"isdCode": "+386"
+	},
+	{
+		"countryName": "Solomon Islands",
+		"isdCode": "+677"
+	},
+	{
+		"countryName": "Somalia",
+		"isdCode": "+252"
+	},
+	{
+		"countryName": "South Africa",
+		"isdCode": "+27"
+	},
+	{
+		"countryName": "South Korea",
+		"isdCode": "+82"
+	},
+	{
+		"countryName": "South Sudan",
+		"isdCode": "+211"
+	},
+	{
+		"countryName": "Spain",
+		"isdCode": "+34"
+	},
+	{
+		"countryName": "Sri Lanka",
+		"isdCode": "+94"
+	},
+	{
+		"countryName": "Sudan",
+		"isdCode": "+249"
+	},
+	{
+		"countryName": "Suriname",
+		"isdCode": "+597"
+	},
+	{
+		"countryName": "Svalbard and Jan Mayen",
+		"isdCode": "+47"
+	},
+	{
+		"countryName": "Swaziland",
+		"isdCode": "+268"
+	},
+	{
+		"countryName": "Sweden",
+		"isdCode": "+46"
+	},
+	{
+		"countryName": "Switzerland",
+		"isdCode": "+41"
+	},
+	{
+		"countryName": "Syria",
+		"isdCode": "+963"
+	},
+	{
+		"countryName": "Taiwan",
+		"isdCode": "+886"
+	},
+	{
+		"countryName": "Tajikistan",
+		"isdCode": "+992"
+	},
+	{
+		"countryName": "Tanzania",
+		"isdCode": "+255"
+	},
+	{
+		"countryName": "Thailand",
+		"isdCode": "+66"
+	},
+	{
+		"countryName": "Togo",
+		"isdCode": "+228"
+	},
+	{
+		"countryName": "Tokelau",
+		"isdCode": "+690"
+	},
+	{
+		"countryName": "Tonga",
+		"isdCode": "+676"
+	},
+	{
+		"countryName": "Trinidad and Tobago",
+		"isdCode": "+1-868"
+	},
+	{
+		"countryName": "Tunisia",
+		"isdCode": "+216"
+	},
+	{
+		"countryName": "Turkey",
+		"isdCode": "+90"
+	},
+	{
+		"countryName": "Turkmenistan",
+		"isdCode": "+993"
+	},
+	{
+		"countryName": "Turks and Caicos Islands",
+		"isdCode": "+1-649"
+	},
+	{
+		"countryName": "Tuvalu",
+		"isdCode": "+688"
+	},
+	{
+		"countryName": "U.S. Virgin Islands",
+		"isdCode": "+1-340"
+	},
+	{
+		"countryName": "Uganda",
+		"isdCode": "+256"
+	},
+	{
+		"countryName": "Ukraine",
+		"isdCode": "+380"
+	},
+	{
+		"countryName": "United Arab Emirates",
+		"isdCode": "+971"
+	},
+	{
+		"countryName": "United Kingdom",
+		"isdCode": "+44"
+	},
+	{
+		"countryName": "United States",
+		"isdCode": "+1"
+	},
+	{
+		"countryName": "United States Minor Outlying Islands",
+		"isdCode": "+1"
+	},
+	{
+		"countryName": "Uruguay",
+		"isdCode": "+598"
+	},
+	{
+		"countryName": "Uzbekistan",
+		"isdCode": "+998"
+	},
+	{
+		"countryName": "Vanuatu",
+		"isdCode": "+678"
+	},
+	{
+		"countryName": "Vatican",
+		"isdCode": "+379"
+	},
+	{
+		"countryName": "Venezuela",
+		"isdCode": "+58"
+	},
+	{
+		"countryName": "Vietnam",
+		"isdCode": "+84"
+	},
+	{
+		"countryName": "Wallis and Futuna",
+		"isdCode": "+681"
+	},
+	{
+		"countryName": "Western Sahara",
+		"isdCode": "+212"
+	},
+	{
+		"countryName": "Yemen",
+		"isdCode": "+967"
+	},
+	{
+		"countryName": "Zambia",
+		"isdCode": "+260"
+	},
+	{
+		"countryName": "Zimbabwe",
+		"isdCode": "+263"
+	}
 ]
